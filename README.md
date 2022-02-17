@@ -1,12 +1,12 @@
 
 
-The code is tested with python3 (Python 3.9.7) with the following
+The code is tested with Python 3.6.4 (or greater) with the following
 non standard packages installed:
 ```
 numpy pandas csv
 ```
 
-If working at CERN on lxplus:
+If working at CERN on lxplus, you can do for example:
 ```
 cmsrel CMSSW_10_6_28
 cd  CMSSW_10_6_28/src
