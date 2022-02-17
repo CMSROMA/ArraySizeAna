@@ -1,9 +1,9 @@
 ## ROOT stuff
-import ROOT as R
-R.gROOT.SetBatch(1)
-#set the tdr style
-import tdrstyle
-tdrstyle.setTDRStyle()
+#import ROOT as R
+#R.gROOT.SetBatch(1)
+##set the tdr style
+#import tdrstyle
+#tdrstyle.setTDRStyle()
 
 ## Python stuff
 from array import array

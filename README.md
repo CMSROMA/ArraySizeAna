@@ -1,5 +1,19 @@
 
 
+The code is tested with python3 (Python 3.9.7) with the following
+non standard packages installed:
+```
+numpy pandas csv
+```
+
+If working at CERN on lxplus:
+```
+cmsrel CMSSW_10_6_28
+cd  CMSSW_10_6_28/src
+cmsenv
+```
+Then follow instructions below.
+
 Clone the repository in a new folder:
 ```
 git clone git@github.com:CMSROMA/ArraySizeAna.git
